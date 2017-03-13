@@ -1,0 +1,6 @@
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\bin\Debug\BinaryGap.exe.config
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\bin\Debug\BinaryGap.exe
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\bin\Debug\BinaryGap.pdb
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\obj\Debug\BinaryGap.csprojResolveAssemblyReference.cache
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\obj\Debug\BinaryGap.exe
+c:\users\administrator.zk7906xhfikjnwc\documents\visual studio 2015\Projects\Codility\BinaryGap\obj\Debug\BinaryGap.pdb
